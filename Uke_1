@@ -1,0 +1,10 @@
+//kodetesting
+
+const int greenPin = 2;
+const int yellowpin = 3;
+const int redPin = 4;
+const int buttonPin = 8;
+
+bool redLight = true;
+int waitTime = 200;
+
