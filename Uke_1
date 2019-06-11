@@ -1,4 +1,4 @@
-//kodetesting
+//Del 6, trinn 5:
 
 const int greenPin = 2;
 const int yellowpin = 3;
